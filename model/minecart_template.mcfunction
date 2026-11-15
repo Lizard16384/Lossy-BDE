@@ -1,0 +1,1 @@
+{id:command_block_minecart,Command:'execute align xyz run summon block_display ~ ~-2 ~ {Passengers:$(data:passengers)}'},
